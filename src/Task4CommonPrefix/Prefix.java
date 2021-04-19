@@ -5,10 +5,10 @@
  */
 package Task4CommonPrefix;
 /**
- * IKIN HASANOV's response to Homework [x], Module [x].
+ * IKIN HASANOV's response to Homework "Common prefix".
  *
  *   Task:
- *
+ *      Develop a method to find the common prefix
  *
  * @version 1.10
  * @Since 19-04-2021

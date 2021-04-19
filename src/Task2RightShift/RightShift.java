@@ -9,9 +9,10 @@ package Task2RightShift;
 import java.util.Arrays;
 
 /**
- * IKIN HASANOV's response to Homework [x], Module [x].
+ * IKIN HASANOV's response to Homework RightShift.
  *
  *   Task:
+ *      Develop a method to realize right shift in an array.
  *
  *
  * @version 1.10

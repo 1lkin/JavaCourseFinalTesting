@@ -9,10 +9,10 @@ package Task3Duplicates;
 import java.util.Arrays;
 
 /**
- * IKIN HASANOV's response to Homework [x], Module [x].
+ * IKIN HASANOV's response to Homework "Duplicates".
  *
  *   Task:
- *
+ *      Check the existence of duplicates in an array
  *
  * @version 1.10
  * @Since 19-04-2021
